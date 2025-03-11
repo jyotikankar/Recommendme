@@ -12,6 +12,9 @@ import Footer from "./components/footer.jsx"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStethoscope, faPhoneAlt, faUserMd, faUserCheck } from "@fortawesome/free-solid-svg-icons";
 
+
+
+//import media files;
 const Layout = () => {
   return (
     <>
