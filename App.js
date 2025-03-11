@@ -14,7 +14,7 @@ import { faStethoscope, faPhoneAlt, faUserMd, faUserCheck } from "@fortawesome/f
 
 
 
-//import media files aaaaaaaaa;
+
 const Layout = () => {
   return (
     <>
